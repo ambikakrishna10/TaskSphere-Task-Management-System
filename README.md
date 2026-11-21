@@ -118,4 +118,3 @@ flowchart TD
 - Handling HTTP requests and responses.
 - Developing dynamic web applications.
 - Understanding DAO design patterns.
-
